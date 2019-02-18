@@ -1,5 +1,11 @@
-Arduino-BTLE-Remote
-===================
+Arduino Feather BTLE Remote
+===========================
+
+This is the software to make a Adafruit Feather BTLE board a remote control for iOS devices.
+
+
+Details
+-------
 
 This is a sketch for the Adafruit Feather 32u4 Bluefruit LE:
 
@@ -21,16 +27,6 @@ MUTE
 VOLUME+
 VOLUME-
 ```
-
-Board Discovery
----------------
-
-Need to connect 6 buttons to the 
-
-
-
-
-
 
 
 Setup and Configure Feather Support
